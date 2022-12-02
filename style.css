@@ -103,7 +103,7 @@ hr {
 }
 
 .hero .hero-image {
-    max-width: 650px;
+    max-width: 450px;
     display: block;
     margin: auto;
 }
@@ -158,6 +158,9 @@ footer{
     border-top-right-radius: 1rem;;
 }
 
+/* .fab-fa-github{
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+} */
 .footer .link{
     color:#f0fff0;
 }
