@@ -5,7 +5,6 @@
     --dark-gray: #6B7280;
     --off-white:#F3F4F6;
 }
-
 body {
     font-family: 'Noto Sans JP',
         sans-serif;
@@ -105,7 +104,6 @@ hr {
 .hero .hero-image {
     max-width: 350px;
     display: block;
-    width: auto;
     margin: auto;
 }
 
